@@ -10,7 +10,7 @@ public final class MsgElement {
     public byte[] extBufForUI;
     //public FaceBubbleElement faceBubbleElement;
     //public FaceElement faceElement;
-    //public FileElement fileElement;
+    public FileElement fileElement;
     //public GiphyElement giphyElement;
     //public GrayTipElement grayTipElement;
     //public InlineKeyboardElement inlineKeyboardElement;
